@@ -81,7 +81,8 @@ double calculateArea(double radius) {
 
 // Student 5: Develop factorial() function
 unsigned long long factorial(int n) {
-    // Placeholder
+    // Placeholder 
+    printf("first commit");
     return 0; // Replace with actual logic
 }
 
@@ -94,4 +95,76 @@ void displayMenu(void) {
     printf("3. Subtract two numbers\n");
     printf("4. Calculate the area of a circle\n");
     printf("5. Calculate the factorial of a number\n");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
