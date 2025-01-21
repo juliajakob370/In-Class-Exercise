@@ -59,6 +59,7 @@ int main(void) {
 // Student 1: Implement greet() function
 void greet(void) {
     printf("Hello!!! This is the group assignment.\n");// Placeholder
+    // this comment is for testing
 }
 
 // Student 2: Modify add() function to take user input
