@@ -2,6 +2,7 @@
 
 // Define constants (if necessary)
 // Example: #define PI 3.14159265358979323846
+#define PI 3.141592
 
 // Function declarations
 void greet(void);                    // Student 1
@@ -74,14 +75,18 @@ int subtract(int a, int b) {
 }
 
 // Student 4: Implement calculate_area() function
+// Calculate area of a circle
 double calculateArea(double radius) {
-    // Placeholder
-    return 0.0; // Replace with actual logic
+    double area = PI * (radius * radius);
+    return area; // return area of circle
 }
 
 // Student 5: Develop factorial() function
 unsigned long long factorial(int n) {
-    // Placeholder
+    int result;
+    while (n != 0) {
+        n * (n - 1);
+    }
     return 0; // Replace with actual logic
 }
 
