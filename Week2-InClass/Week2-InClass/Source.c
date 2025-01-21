@@ -59,19 +59,19 @@ int main(void) {
 
 // Student 1: Implement greet() function
 void greet(void) {
-    // Placeholder
+    printf("Hello!!! This is the group assignment.\n");// Placeholder
 }
 
 // Student 2: Modify add() function to take user input
 int add(int a, int b) {
-    // Placeholder
-    return 0; // Replace with actual logic
+    int result = a + b;// Placeholder
+    return result; // Replace with actual logic
 }
 
 // Student 3: Complete subtract() function
 int subtract(int a, int b) {
-    // Placeholder
-    return 0; // Replace with actual logic
+    int result = a - b;// Placeholder
+    return result; // Replace with actual logic
 }
 
 // Student 4: Implement calculate_area() function
